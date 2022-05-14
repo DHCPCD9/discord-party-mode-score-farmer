@@ -1,4 +1,5 @@
-# discord-party-mode-score-farmer
+English | [Русский](https://github.com/DHCPCD9/discord-party-mode-score-farmer/blob/master/README_RU.md)
+
 Farm score for Discord "Party Mode" from Discord.
 
 # How to use it?
